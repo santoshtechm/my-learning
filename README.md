@@ -40,7 +40,7 @@
 ### Pulling Git Code to the instance (Pending)
 
 
-### Build + Release + Deploy (Pending)
+### Build + Configure + Release + Deploy + Run Admin Task (Pending)
 
 
 ### Setting up DNS URL.
